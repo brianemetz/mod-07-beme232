@@ -6,7 +6,7 @@ This map looks at the Wild Turkey bourbon distillery in Lawrenceburg, Kentucky. 
 ![WildTurkey](WildTurkey.jpg)     
 *This is the map looking at Tyrone Rd along with the River and the Distillery*
 
-![PDF Version](Artboard_1.pdf)     
+![Hi-Resolution PDF Version](Artboard_1.pdf)     
 
 The Data for the map was gathered from KyFromAbove database, using the NAIP, DSM, and DEM. Water features and forest data was gathered from the USGS National Map. 
 
